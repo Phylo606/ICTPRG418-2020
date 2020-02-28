@@ -1,0 +1,10 @@
+C:\Users\102119144\Documents\ICTPRG418-2020\Week 1\OO_Tasks\OO_Tasks_UnitTests\obj\Debug\OO_Tasks_UnitTests.csprojAssemblyReference.cache
+C:\Users\102119144\Documents\ICTPRG418-2020\Week 1\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\OO_Tasks_UnitTests.dll
+C:\Users\102119144\Documents\ICTPRG418-2020\Week 1\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\OO_Tasks_UnitTests.pdb
+C:\Users\102119144\Documents\ICTPRG418-2020\Week 1\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\102119144\Documents\ICTPRG418-2020\Week 1\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\OO_Tasks.dll
+C:\Users\102119144\Documents\ICTPRG418-2020\Week 1\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\OO_Tasks.pdb
+C:\Users\102119144\Documents\ICTPRG418-2020\Week 1\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\102119144\Documents\ICTPRG418-2020\Week 1\OO_Tasks\OO_Tasks_UnitTests\obj\Debug\OO_Tasks_UnitTests.csproj.CopyComplete
+C:\Users\102119144\Documents\ICTPRG418-2020\Week 1\OO_Tasks\OO_Tasks_UnitTests\obj\Debug\OO_Tasks_UnitTests.dll
+C:\Users\102119144\Documents\ICTPRG418-2020\Week 1\OO_Tasks\OO_Tasks_UnitTests\obj\Debug\OO_Tasks_UnitTests.pdb
