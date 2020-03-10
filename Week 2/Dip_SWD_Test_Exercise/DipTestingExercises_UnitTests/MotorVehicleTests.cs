@@ -116,4 +116,11 @@ namespace DipTestingExercises_UnitTests
             throw new NotImplementedException();
         }
     }
+    public class FakePerson : Person
+    {
+        public FakePerson(string pFname, string pLname, string pGender) : base(pFname, pLname, pGender)
+        {
+
+        }
+    }
 }

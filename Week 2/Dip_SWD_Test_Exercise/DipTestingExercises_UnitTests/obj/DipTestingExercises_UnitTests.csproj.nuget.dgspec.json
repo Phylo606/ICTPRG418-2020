@@ -1,36 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\102119144\\Downloads\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises_UnitTests\\DipTestingExercises_UnitTests.csproj": {}
+    "E:\\Swinburne\\git repository\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises_UnitTests\\DipTestingExercises_UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\102119144\\Downloads\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises\\DipTestingExercises.csproj": {
+    "E:\\Swinburne\\git repository\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises\\DipTestingExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\102119144\\Downloads\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises\\DipTestingExercises.csproj",
+        "projectUniqueName": "E:\\Swinburne\\git repository\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises\\DipTestingExercises.csproj",
         "projectName": "DipTestingExercises",
-        "projectPath": "C:\\Users\\102119144\\Downloads\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises\\DipTestingExercises.csproj"
+        "projectPath": "E:\\Swinburne\\git repository\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises\\DipTestingExercises.csproj"
       },
       "frameworks": {
         "net452": {}
       }
     },
-    "C:\\Users\\102119144\\Downloads\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises_UnitTests\\DipTestingExercises_UnitTests.csproj": {
+    "E:\\Swinburne\\git repository\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises_UnitTests\\DipTestingExercises_UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\102119144\\Downloads\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises_UnitTests\\DipTestingExercises_UnitTests.csproj",
+        "projectUniqueName": "E:\\Swinburne\\git repository\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises_UnitTests\\DipTestingExercises_UnitTests.csproj",
         "projectName": "DipTestingExercises_UnitTests",
-        "projectPath": "C:\\Users\\102119144\\Downloads\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises_UnitTests\\DipTestingExercises_UnitTests.csproj",
-        "packagesPath": "C:\\Users\\102119144\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\102119144\\Downloads\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises_UnitTests\\obj\\",
+        "projectPath": "E:\\Swinburne\\git repository\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises_UnitTests\\DipTestingExercises_UnitTests.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\Swinburne\\git repository\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises_UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\102119144\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -42,8 +41,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\102119144\\Downloads\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises\\DipTestingExercises.csproj": {
-                "projectPath": "C:\\Users\\102119144\\Downloads\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises\\DipTestingExercises.csproj"
+              "E:\\Swinburne\\git repository\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises\\DipTestingExercises.csproj": {
+                "projectPath": "E:\\Swinburne\\git repository\\ICTPRG418-2020\\Week 2\\Dip_SWD_Test_Exercise\\DipTestingExercises\\DipTestingExercises.csproj"
               }
             }
           }
@@ -85,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

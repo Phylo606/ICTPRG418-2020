@@ -31,3 +31,9 @@ C:\Users\102119144\Documents\ICTPRG418-2020\Week 2\DipSWDTestExercise\DipTesting
 C:\Users\102119144\Documents\ICTPRG418-2020\Week 2\DipSWDTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.csprojAssemblyReference.cache
 C:\Users\102119144\Documents\ICTPRG418-2020\Week 2\DipSWDTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.exe
 C:\Users\102119144\Documents\ICTPRG418-2020\Week 2\DipSWDTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.pdb
+E:\Swinburne\git repository\ICTPRG418-2020\Week 2\Dip_SWD_Test_Exercise\DipTestingExercises\bin\Debug\DipTestingExercises.exe.config
+E:\Swinburne\git repository\ICTPRG418-2020\Week 2\Dip_SWD_Test_Exercise\DipTestingExercises\bin\Debug\DipTestingExercises.exe
+E:\Swinburne\git repository\ICTPRG418-2020\Week 2\Dip_SWD_Test_Exercise\DipTestingExercises\bin\Debug\DipTestingExercises.pdb
+E:\Swinburne\git repository\ICTPRG418-2020\Week 2\Dip_SWD_Test_Exercise\DipTestingExercises\obj\Debug\DipTestingExercises.csprojAssemblyReference.cache
+E:\Swinburne\git repository\ICTPRG418-2020\Week 2\Dip_SWD_Test_Exercise\DipTestingExercises\obj\Debug\DipTestingExercises.exe
+E:\Swinburne\git repository\ICTPRG418-2020\Week 2\Dip_SWD_Test_Exercise\DipTestingExercises\obj\Debug\DipTestingExercises.pdb
